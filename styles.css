@@ -83,3 +83,4 @@ button {
 .mensaje.error { color: var(--color-error); }
 .mensaje.exito { color: var(--color-exito); }
 .mensaje.info { color: var(--color-primario); }
+
